@@ -1,0 +1,2 @@
+2023-01-10 09:08:38.6258|DEBUG|SampleNlog.NLog|Debug sucessfull
+2023-01-10 09:08:38.9994|INFO|SampleNlog.NLog|Sum Method Passed25
